@@ -1,6 +1,6 @@
 package io.flashback.wswi.user.model
 
-import java.util.*
+import java.util.UUID
 
 data class User(
     val id: UUID,
